@@ -1,7 +1,7 @@
 data = {"Name" :"Jayme Angeli Oropesa",
 "Spirit Animal": "Tiger",
-"Reason": "I am brave enough to face all my challenges in my life",
-"Hobby" : "Reading Books",
+"Reason": "I am brave enough to face all the challenges in life",
+"Hobby" : "Read Books",
 "Profession" : "Civil Engineer"
 }
 
